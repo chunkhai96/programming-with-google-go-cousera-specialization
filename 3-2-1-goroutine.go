@@ -11,6 +11,7 @@ func run(str string){
 }
 
 func main() {
+	
 	// goroutine allows program to run concurrently
 	go run("goroutine 1")
 	go run("goroutine 2")
