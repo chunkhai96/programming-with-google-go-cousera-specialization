@@ -1,0 +1,5 @@
+- As the density of transistor increasing, the power consumption also increasing
+- The temperature also increase as the power consumption increase
+- Besides, there are also limitation in voltage scaling
+- Voltage scaling cannot prevent leakage and cause power loss
+- Voltage noise also make voltage scaling more difficult
